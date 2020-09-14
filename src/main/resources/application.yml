@@ -1,0 +1,7 @@
+---
+micronaut:
+  application:
+    name: jconf20Demo
+kafka:
+  bootstrap:
+    servers: nv-mabdulkader:9092
