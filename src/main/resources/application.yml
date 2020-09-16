@@ -4,7 +4,7 @@ micronaut:
     name: jconf20Demo
   server:
     cors:
-      enabled: false
+      enabled: true
 kafka:
   bootstrap:
     servers: nv-mabdulkader:9092
